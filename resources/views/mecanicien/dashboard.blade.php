@@ -1,0 +1,1 @@
+@extends('mecanicien.layouts.app')
